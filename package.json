@@ -12,6 +12,7 @@
     "JavascriptFIRST"
   ],
   "author": "Edan Thomton",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JavascriptFIRST/JavascriptFIRST-HAL/issues"
   }
