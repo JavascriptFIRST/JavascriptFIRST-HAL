@@ -1,0 +1,18 @@
+{
+  "name": "hal",
+  "version": "0.0.1",
+  "description": "wpilibHAL bindings for JavascriptFirst",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptFIRST/JavascriptFIRST-HAL.git"
+  },
+  "keywords": [
+    "HAL",
+    "JavascriptFIRST"
+  ],
+  "author": "Edan Thomton",
+  "bugs": {
+    "url": "https://github.com/JavascriptFIRST/JavascriptFIRST-HAL/issues"
+  }
+}
