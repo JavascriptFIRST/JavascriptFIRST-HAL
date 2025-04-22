@@ -1,5 +1,5 @@
 {
-  "name": "hal",
+  "name": "@javascriptfirst/hal",
   "version": "0.0.1",
   "description": "wpilibHAL bindings for JavascriptFirst",
   "main": "index.js",
